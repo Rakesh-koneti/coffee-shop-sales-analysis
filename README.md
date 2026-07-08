@@ -98,7 +98,7 @@ Tools Used
 Files
 
 * Coffee Shop Sales Data.xlsx – dataset used for analysis
-* Coffee Shop Sales Dashboard.png – dashboard screenshot
+* coffee shop sales dashboard– dashboard screenshot
 
   
 
